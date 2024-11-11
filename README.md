@@ -12,8 +12,8 @@ To write a program to implement the back end of the compiler.
 6. Stop the program.
 # PROGRAM
 ```
-Name: AMRUTHA VARSHNI BS
-REG NO: 212222040007
+Name: THANISH N
+REG NO: 212223220117
 ```
 ```
 #include <stdio.h>
